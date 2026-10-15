@@ -2,6 +2,9 @@
 
 #### Video Demo: https://youtu.be/RuJZXqm22aU?si=a-KIkJSiHt-8faXe
 
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/fc2e1e56-c7ba-445c-b233-45ada0374b8f" />
+
+
 #### Description:
 An interactive Python dashboard exploring artist streams, genre trends, and audio features across **50,000 tracks (2020–2025)**. Built using `pandas` for pipeline data processing, `Plotly` for interactive visualizations, and `Streamlit` for the web UI.
 
