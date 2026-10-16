@@ -1,6 +1,5 @@
 # 🎧 Spotify Streaming Analytics Dashboard
 
-#### Video Demo: https://youtu.be/RuJZXqm22aU?si=a-KIkJSiHt-8faXe
 
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/fc2e1e56-c7ba-445c-b233-45ada0374b8f" />
 
